@@ -16,11 +16,4 @@ To see the accessibility changes put in place you can see these through using th
 
 ## Credits
 
-For the choice of semantic tags: https://www.w3schools.com/html/html5_semantic_elements.asp
-For adding a title to a image referenced in css using a title: https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute
-
-## License
-
-Please refer to the LICENSE in the repo.
-
-
+For the choice of semantic tags: https://www.w3schools.com/html/html5_semantic_
