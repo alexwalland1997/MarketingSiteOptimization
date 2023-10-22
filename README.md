@@ -6,7 +6,7 @@ This task required me to refactor a pre-existing website to make it more accessi
 
 ## Installation
 
-In order to run this site you need to download this repo and open the index.html in the browser of your choice.
+In order to run this site you need to download this repo and open the index.html in the browser of your choice. Alternatively the code can be located at https://alexwalland1997.github.io/MarketingSiteOptimization/
 
 ## Usage
 
